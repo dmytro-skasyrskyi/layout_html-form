@@ -1,1 +1,13 @@
 /* styles go here */
+
+.field-atribute {
+  margin-bottom: 20px;
+}
+
+.form-field {
+  margin-bottom: 10px;
+}
+
+.field-atribute :last-child {
+  margin-bottom: 0;
+}
